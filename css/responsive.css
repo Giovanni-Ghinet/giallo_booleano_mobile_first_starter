@@ -32,4 +32,17 @@
     .ads {
 	    display: block;
     }
+
+    .presentation img{
+        float: left;
+        width: 40%;
+        margin: 0 10px 10px 0;
+    }
+}
+
+/* desktop */
+
+@media screen and (min-width: 992px){
+
+    
 }
