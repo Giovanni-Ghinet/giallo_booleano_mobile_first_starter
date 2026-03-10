@@ -1,1 +1,14 @@
 /* Soluzione qui */
+
+/* tablet */
+
+@media screen and (min-width: 768px){
+
+    #topbar{
+        justify-content: start;
+    }
+
+    .container{
+        padding: 20px;
+    }
+}
